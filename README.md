@@ -25,6 +25,6 @@
 # Контактная информация
 <ol> 
   <li> email: evgenkochur@mail.ru </li>
-  <li> VK: >< href="https://m.vk.com/evgen6654">Ссылка</li>
+  <a> VK: ><a href="https://m.vk.com/evgen6654">Ссылка</a>
   <li> Telegramm: @lotpolk</li>
   </ol>
