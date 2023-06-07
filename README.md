@@ -25,7 +25,7 @@
   
 ## Контактная информация
 <ol> 
-  <li> email:  <a href="evgenkochur@mail.ru"</a> </li>
-  <li> VK: <a href="https://m.vk.com/evgen6654">Ссылка</a></li>
-  <li> Telegramm: <a href="@lotpolk"</a> </li>
+  <li> email:  <a href="evgenkochur@mail.ru">evgenkochur@mail.ru</a> </li>
+  <li> VK: <a href="https://m.vk.com/evgen6654">Евгений Кочуров</a></li>
+  <li> Telegramm: <a href="@lotpolk">@lotpolk</a> </li>
   </ol>
