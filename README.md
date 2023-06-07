@@ -22,3 +22,9 @@
   <li>Итог 1: найдены баги</li>
   <li>Итог 2: продукт к выходу не готов.</li>
   </ol>
+# Контактная информация
+<ol> 
+  <li> email: evgenkochur@mail.ru </li>
+  <li> VK: >< href="https://m.vk.com/evgen6654">Ссылка</li>
+  <li> Telegramm: @lotpolk</li>
+  </ol>
