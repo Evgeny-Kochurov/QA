@@ -5,7 +5,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 ## Навыки и технологии
-``Jira``, ``Case io``, ``Stitechko``, ``Miro``, ``pgAdmin``, ``Mockoon``,
+``Jira``, ``Case.io``, ``Sitechco``, ``Miro``, ``pgAdmin``, ``Mockoon``,
 ``SoapUI``, ``Postman``, ``SQL``, ``Trello``, ``ChromeDevTools``.
 
 ## Проекты
